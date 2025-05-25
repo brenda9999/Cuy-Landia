@@ -1,12 +1,12 @@
-[22:00:29] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[22:00:29] [ForkJoinPool-1-worker-1/WARN]: Mod naturalist uses the version 5.0pre2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0pre2'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[22:00:29] [ForkJoinPool-1-worker-1/WARN]: Mod hamsters uses the version fabric-1.0.3-1.20.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[22:00:29] [main/WARN]: Mod resolution failed
-[22:00:29] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE aether 1.5.2-beta.6 {depends fabricloader @ [>=0.16.7]}, ROOT_FORCELOAD_SINGLE aether 1.5.2-beta.6]
-[22:00:29] [main/INFO]: Reason: [HARD_DEP aether 1.5.2-beta.6 {depends fabricloader @ [>=0.16.7]}, HARD_DEP fabric-language-kotlin 1.13.2+kotlin.2.1.20 {depends fabricloader @ [>=0.16.9]}, HARD_DEP fantasy_weapons 0.3.1-1.20.1 {depends fabricloader @ [>=0.16.5]}, HARD_DEP waystones 14.1.13 {depends balm-fabric @ [>=7.0.0]}]
-[22:00:29] [main/INFO]: SERVER environment disabled: [fabric-model-loading-api-v1, fabric-renderer-api-v1, fabric-keybindings-v0, libipn, modmenu, cumulus_menus, fabric-client-tags-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-blockrenderlayer-v1, fabric-renderer-registries-v1, fabric-models-v0, fabric-sound-api-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-key-binding-api-v1, smoothscroll, spruceui]
-[22:00:29] [main/INFO]: Fix: add [add:balm-fabric 7.0.0 ([[7.0.0,∞)])], remove [], replace [[fabricloader 0.16.3] -> add:fabricloader 0.16.9 ([[0.16.9,∞)])]
-[22:00:29] [main/ERROR]: Incompatible mods found!
+[22:02:06] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[22:02:06] [ForkJoinPool-1-worker-2/WARN]: Mod naturalist uses the version 5.0pre2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0pre2'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:02:06] [ForkJoinPool-1-worker-2/WARN]: Mod hamsters uses the version fabric-1.0.3-1.20.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:02:06] [main/WARN]: Mod resolution failed
+[22:02:06] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE aether 1.5.2-beta.6 {depends fabricloader @ [>=0.16.7]}, ROOT_FORCELOAD_SINGLE aether 1.5.2-beta.6]
+[22:02:06] [main/INFO]: Reason: [HARD_DEP aether 1.5.2-beta.6 {depends fabricloader @ [>=0.16.7]}, HARD_DEP fabric-language-kotlin 1.13.2+kotlin.2.1.20 {depends fabricloader @ [>=0.16.9]}, HARD_DEP fantasy_weapons 0.3.1-1.20.1 {depends fabricloader @ [>=0.16.5]}, HARD_DEP waystones 14.1.13 {depends balm-fabric @ [>=7.0.0]}]
+[22:02:06] [main/INFO]: SERVER environment disabled: [fabric-model-loading-api-v1, fabric-renderer-api-v1, fabric-keybindings-v0, libipn, modmenu, cumulus_menus, fabric-client-tags-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-blockrenderlayer-v1, fabric-renderer-registries-v1, fabric-models-v0, fabric-rendering-v0, fabric-sound-api-v1, fabric-rendering-v1, fabric-key-binding-api-v1, smoothscroll, spruceui]
+[22:02:06] [main/INFO]: Fix: add [add:balm-fabric 7.0.0 ([[7.0.0,∞)])], remove [], replace [[fabricloader 0.16.3] -> add:fabricloader 0.16.9 ([[0.16.9,∞)])]
+[22:02:06] [main/ERROR]: Incompatible mods found!
 net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
 A potential solution has been determined, this may resolve your problem:
 	 - Install balm-fabric, version 7.0.0 or later.
