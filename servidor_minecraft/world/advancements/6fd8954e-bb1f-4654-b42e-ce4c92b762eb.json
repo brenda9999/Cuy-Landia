@@ -403,6 +403,7 @@
       "minecraft:river": "2025-05-31 00:55:32 +0000",
       "minecraft:snowy_taiga": "2025-05-31 00:30:24 +0000",
       "minecraft:swamp": "2025-05-31 00:35:49 +0000",
+      "minecraft:forest": "2025-05-31 20:21:38 +0000",
       "minecraft:plains": "2025-05-31 00:43:28 +0000"
     },
     "done": false
@@ -2660,6 +2661,12 @@
     },
     "done": true
   },
+  "hybrid-aquatic:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_tube_sponge": "2025-05-31 20:26:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-31 19:57:02 +0000"
@@ -2675,6 +2682,12 @@
   "handcrafted:recipes/misc/oak_corner_trim": {
     "criteria": {
       "has_oak_corner_trim": "2025-05-31 20:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 20:22:33 +0000"
     },
     "done": true
   },
@@ -2831,6 +2844,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 20:17:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 20:22:33 +0000"
     },
     "done": true
   },
@@ -3311,6 +3330,12 @@
   "mcdw:recipes/daggers/dagger_moon": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 20:17:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 20:26:25 +0000"
     },
     "done": true
   },
