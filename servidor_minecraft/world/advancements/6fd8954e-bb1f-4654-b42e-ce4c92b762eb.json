@@ -4724,5 +4724,11 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-06-01 17:52:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
