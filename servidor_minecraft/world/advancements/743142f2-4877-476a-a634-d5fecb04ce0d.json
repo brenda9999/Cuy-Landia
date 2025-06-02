@@ -4415,6 +4415,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "oceanographytable": "2025-06-02 23:42:15 +0000",
       "fletchingtable": "2025-06-01 23:58:40 +0000",
       "grindstone": "2025-06-02 00:20:24 +0000",
       "smoker": "2025-06-01 23:26:05 +0000",
@@ -6990,9 +6991,21 @@
     },
     "done": true
   },
+  "bakery:recipes/crafting_bowl": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-02 23:42:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-06-02 23:24:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_shovel_repairing": {
+    "criteria": {
+      "has_netherite_shovel": "2025-06-02 23:33:57 +0000"
     },
     "done": true
   },
@@ -7005,6 +7018,18 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-06-02 23:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-06-02 23:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-02 23:42:29 +0000"
     },
     "done": true
   },
