@@ -766,6 +766,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-01 20:54:34 +0000",
       "bread": "2025-05-31 00:48:23 +0000",
+      "golden_apple": "2025-06-02 23:16:01 +0000",
       "rotten_flesh": "2025-05-31 23:03:30 +0000",
       "golden_carrot": "2025-06-01 21:02:10 +0000"
     },
@@ -6962,6 +6963,24 @@
   "aether:recipes/tools/netherite_pickaxe_repairing": {
     "criteria": {
       "has_netherite_pickaxe": "2025-06-02 00:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-02 23:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-02 23:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-02 23:18:38 +0000"
     },
     "done": true
   },

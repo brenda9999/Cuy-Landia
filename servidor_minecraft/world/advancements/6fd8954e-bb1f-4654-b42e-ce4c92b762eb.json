@@ -6992,5 +6992,17 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-06-02 23:13:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-06-02 23:13:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
