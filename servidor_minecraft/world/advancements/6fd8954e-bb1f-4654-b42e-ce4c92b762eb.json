@@ -7016,6 +7016,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-06-03 00:33:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-03 00:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-06-02 23:47:59 +0000"
