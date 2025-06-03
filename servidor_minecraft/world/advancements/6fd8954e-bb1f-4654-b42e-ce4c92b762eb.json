@@ -2201,6 +2201,7 @@
       "minecraft:zombified_piglin": "2025-06-01 19:53:53 +0000",
       "minecraft:witch": "2025-05-31 22:02:08 +0000",
       "minecraft:wither_skeleton": "2025-06-01 20:36:08 +0000",
+      "minecraft:piglin": "2025-06-03 00:40:56 +0000",
       "minecraft:zombie": "2025-05-31 00:57:35 +0000",
       "minecraft:zombie_villager": "2025-05-31 22:42:19 +0000"
     },
@@ -6992,6 +6993,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-03 00:40:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-06-02 23:47:59 +0000"
@@ -7001,6 +7008,18 @@
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-06-02 23:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-03 00:41:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-06-03 00:41:21 +0000"
     },
     "done": true
   },
