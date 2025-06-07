@@ -765,6 +765,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-01 20:54:34 +0000",
+      "potato": "2025-06-07 17:35:24 +0000",
       "bread": "2025-05-31 00:48:23 +0000",
       "golden_apple": "2025-06-02 23:16:01 +0000",
       "rotten_flesh": "2025-05-31 23:03:30 +0000",
@@ -4426,7 +4427,8 @@
       "blastfurnace": "2025-06-01 19:29:31 +0000",
       "loom": "2025-06-01 23:56:37 +0000",
       "lectern": "2025-06-01 23:56:47 +0000",
-      "stonecutter": "2025-06-01 23:58:58 +0000"
+      "stonecutter": "2025-06-01 23:58:58 +0000",
+      "composter": "2025-06-07 17:37:22 +0000"
     },
     "done": false
   },
@@ -7171,6 +7173,48 @@
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2025-06-03 00:28:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-06-07 17:37:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/building_blocks/oak_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-06-07 17:37:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-06-07 17:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-07 17:37:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-06-07 17:37:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-06-07 17:37:09 +0000"
+    },
+    "done": true
+  },
+  "exlinecopperequipment:recipes/misc/copper_hoe": {
+    "criteria": {
+      "has_ingredient": "2025-06-07 17:30:51 +0000"
     },
     "done": true
   },
