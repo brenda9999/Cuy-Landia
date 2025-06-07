@@ -399,6 +399,10 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-05-31 00:31:11 +0000",
       "minecraft:taiga": "2025-05-29 00:21:27 +0000",
+      "minecraft:deep_ocean": "2025-06-07 18:07:02 +0000",
+      "minecraft:frozen_river": "2025-06-07 18:04:20 +0000",
+      "minecraft:birch_forest": "2025-06-07 18:06:21 +0000",
+      "minecraft:windswept_hills": "2025-06-07 18:05:29 +0000",
       "minecraft:beach": "2025-05-31 00:56:43 +0000",
       "minecraft:river": "2025-05-31 00:55:32 +0000",
       "minecraft:snowy_taiga": "2025-05-31 00:30:24 +0000",
@@ -406,6 +410,12 @@
       "minecraft:swamp": "2025-05-31 00:35:49 +0000",
       "minecraft:cold_ocean": "2025-05-31 22:52:14 +0000",
       "minecraft:forest": "2025-05-31 20:21:38 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-07 18:03:33 +0000",
+      "minecraft:frozen_ocean": "2025-06-07 18:03:41 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-07 18:03:40 +0000",
+      "minecraft:windswept_forest": "2025-06-07 18:06:27 +0000",
+      "minecraft:ocean": "2025-06-07 18:05:45 +0000",
+      "minecraft:snowy_beach": "2025-06-07 18:04:21 +0000",
       "minecraft:plains": "2025-05-31 00:43:28 +0000"
     },
     "done": false
@@ -490,15 +500,21 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-06-07 18:04:01 +0000",
+      "shrubland": "2025-06-07 18:06:13 +0000",
+      "rocky_shrubland": "2025-06-07 18:06:08 +0000",
       "highland": "2025-06-01 22:03:13 +0000",
       "crystalline_chasm": "2025-06-01 20:19:09 +0000",
       "withered_abyss": "2025-06-01 20:59:45 +0000",
+      "orchard": "2025-06-07 18:06:31 +0000",
       "coniferous_forest": "2025-05-31 20:13:05 +0000",
       "spider_nest": "2025-05-31 00:41:09 +0000",
       "visceral_heap": "2025-06-01 21:09:52 +0000",
       "aspen_glade": "2025-06-01 22:03:07 +0000",
+      "dune_beach": "2025-06-07 18:06:32 +0000",
       "seasonal_forest": "2025-06-01 22:03:10 +0000",
       "fir_clearing": "2025-05-31 00:40:12 +0000",
+      "grassland": "2025-06-07 18:06:12 +0000",
       "gravel_beach": "2025-05-31 20:14:16 +0000",
       "undergrowth": "2025-05-29 00:23:24 +0000"
     },
@@ -2198,6 +2214,7 @@
       "minecraft:spider": "2025-05-31 00:57:28 +0000",
       "minecraft:piglin_brute": "2025-06-01 21:12:32 +0000",
       "minecraft:creeper": "2025-05-31 00:58:06 +0000",
+      "minecraft:phantom": "2025-06-07 18:02:11 +0000",
       "minecraft:zombified_piglin": "2025-06-01 19:53:53 +0000",
       "minecraft:witch": "2025-05-31 22:02:08 +0000",
       "minecraft:wither_skeleton": "2025-06-01 20:36:08 +0000",
@@ -7077,9 +7094,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_lime_dye": "2025-06-07 17:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-07 17:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 17:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 17:51:10 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-07 18:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 17:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-07 17:59:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_yellow_cup": "2025-06-07 17:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-07 17:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 17:51:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/building_blocks/oak_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-06-07 18:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-07 17:51:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_yellow_crockery_combo": "2025-06-07 17:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-07 17:59:21 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-06-07 18:02:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-06-07 18:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 17:51:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_bowl": {
+    "criteria": {
+      "has_yellow_bowl": "2025-06-07 17:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-06-07 17:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-06-07 17:28:19 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-06-07 18:02:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_lime_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 17:51:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2025-06-07 17:51:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 17:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 17:51:08 +0000"
     },
     "done": true
   },
