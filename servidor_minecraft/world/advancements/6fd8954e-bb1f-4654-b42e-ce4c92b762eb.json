@@ -7100,6 +7100,18 @@
     },
     "done": true
   },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-06-07 18:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-06-07 18:09:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-06-07 17:51:08 +0000"
@@ -7205,6 +7217,12 @@
   "minecraft:recipes/decorations/lime_candle": {
     "criteria": {
       "has_lime_dye": "2025-06-07 17:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-07 18:09:33 +0000"
     },
     "done": true
   },
