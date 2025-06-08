@@ -2099,6 +2099,7 @@
       "minecraft:ghast": "2025-06-03 00:29:02 +0000",
       "minecraft:hoglin": "2025-06-02 00:08:29 +0000",
       "minecraft:vindicator": "2025-06-07 23:24:42 +0000",
+      "minecraft:magma_cube": "2025-06-08 18:07:13 +0000",
       "minecraft:spider": "2025-05-31 00:57:23 +0000",
       "minecraft:creeper": "2025-06-01 23:21:16 +0000",
       "minecraft:evoker": "2025-06-07 23:40:28 +0000",
@@ -8392,6 +8393,18 @@
   "morevillagers:master_trade": {
     "criteria": {
       "villagertrade": "2025-06-08 00:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-08 18:07:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-06-08 18:07:15 +0000"
     },
     "done": true
   },
