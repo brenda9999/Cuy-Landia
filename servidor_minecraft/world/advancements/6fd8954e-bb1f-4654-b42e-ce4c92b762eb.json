@@ -8306,15 +8306,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_polished_diorite": "2025-06-08 01:44:37 +0000"
+      "has_coal_block": "2025-06-08 00:42:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
+  "aether:recipes/combat/golden_boots_repairing": {
     "criteria": {
-      "has_diorite": "2025-06-08 01:36:06 +0000"
+      "has_golden_boots": "2025-06-08 00:56:00 +0000"
     },
     "done": true
   },
@@ -8324,15 +8324,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "storagedrawers:recipes/storagedrawers/upgrade_template": {
     "criteria": {
-      "has_coal_block": "2025-06-08 00:42:37 +0000"
+      "has_chest": "2025-06-08 01:13:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+  "storagedrawers:recipes/storagedrawers/detached_drawer": {
     "criteria": {
-      "has_diorite": "2025-06-08 01:36:06 +0000"
+      "has_chest": "2025-06-08 01:13:52 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2025-06-08 01:13:52 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller_slave": {
+    "criteria": {
+      "has_chest": "2025-06-08 01:13:52 +0000"
     },
     "done": true
   },
@@ -8348,15 +8360,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-08 01:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-08 01:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-08 01:36:06 +0000"
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/upgrade_template": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
-      "has_chest": "2025-06-08 01:13:52 +0000"
+      "has_diorite": "2025-06-08 01:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-08 01:36:06 +0000"
     },
     "done": true
   },
@@ -8378,27 +8408,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-06-08 01:32:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-06-08 01:32:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-06-08 01:36:06 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/detached_drawer": {
-    "criteria": {
-      "has_chest": "2025-06-08 01:13:52 +0000"
     },
     "done": true
   },
@@ -8414,33 +8426,9 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/controller": {
-    "criteria": {
-      "has_chest": "2025-06-08 01:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab": {
-    "criteria": {
-      "has_polished_diorite": "2025-06-08 01:44:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-08 01:36:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2025-06-08 01:44:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2025-06-08 01:44:37 +0000"
     },
     "done": true
   },
@@ -8456,21 +8444,45 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/controller_slave": {
-    "criteria": {
-      "has_chest": "2025-06-08 01:13:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_boots_repairing": {
-    "criteria": {
-      "has_golden_boots": "2025-06-08 00:56:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-06-08 01:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-08 01:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-08 01:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-08 01:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-08 01:44:37 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-06-08 18:04:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-06-08 18:04:12 +0000"
     },
     "done": true
   },
