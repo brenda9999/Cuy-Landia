@@ -2097,6 +2097,7 @@
       "minecraft:blaze": "2025-06-01 20:24:36 +0000",
       "minecraft:pillager": "2025-06-08 20:20:11 +0000",
       "minecraft:skeleton": "2025-05-31 21:36:08 +0000",
+      "minecraft:ravager": "2025-06-08 20:22:55 +0000",
       "minecraft:ghast": "2025-06-03 00:29:02 +0000",
       "minecraft:hoglin": "2025-06-02 00:08:29 +0000",
       "minecraft:vindicator": "2025-06-07 23:24:42 +0000",
@@ -8471,9 +8472,57 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/verdant_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-06-08 20:26:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/verdant_robe_leggings": {
+    "criteria": {
+      "has_evocation_robe_leggings": "2025-06-08 20:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-06-08 20:15:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_leggings": {
+    "criteria": {
+      "has_evocation_robe_leggings": "2025-06-08 20:32:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-06-08 20:26:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/verdant_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-06-08 20:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-08 20:35:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-06-08 20:29:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-06-08 20:23:03 +0000"
     },
     "done": true
   },
