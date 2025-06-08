@@ -8796,21 +8796,9 @@
     },
     "done": true
   },
-  "bakery:recipes/vegetable_sandwich": {
-    "criteria": {
-      "has_carrot": "2025-06-08 21:47:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-06-08 21:31:54 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:arcanethyst": {
-    "criteria": {
-      "requirement": "2025-06-08 21:37:59 +0000"
     },
     "done": true
   },
@@ -8820,9 +8808,33 @@
     },
     "done": true
   },
+  "simplyswords:arcanethyst": {
+    "criteria": {
+      "requirement": "2025-06-08 21:37:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-06-08 21:47:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-06-08 21:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-06-08 22:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-06-08 22:00:49 +0000"
     },
     "done": true
   },
