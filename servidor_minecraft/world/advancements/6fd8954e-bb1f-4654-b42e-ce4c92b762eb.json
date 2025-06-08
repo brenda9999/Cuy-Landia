@@ -8547,6 +8547,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/glass_modern_pendant": {
+    "criteria": {
+      "has_white_stained_glass": "2025-06-08 19:19:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-08 18:52:32 +0000"
@@ -8574,6 +8580,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-08 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-08 19:19:46 +0000"
     },
     "done": true
   },
