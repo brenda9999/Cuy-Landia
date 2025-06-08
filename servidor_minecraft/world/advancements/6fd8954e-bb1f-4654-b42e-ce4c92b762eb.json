@@ -8796,6 +8796,12 @@
     },
     "done": true
   },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-06-08 21:47:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-06-08 21:31:54 +0000"
@@ -8811,6 +8817,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-06-08 21:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-08 21:47:14 +0000"
     },
     "done": true
   },

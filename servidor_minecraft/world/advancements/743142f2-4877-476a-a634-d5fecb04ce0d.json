@@ -8487,9 +8487,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-08 21:43:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-08 21:09:35 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/froggy_chair_yellow": {
+    "criteria": {
+      "has_concrete": "2025-06-08 21:48:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-06-08 21:41:38 +0000"
     },
     "done": true
   },
@@ -8499,9 +8517,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-08 21:44:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-06-08 20:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-08 21:44:16 +0000"
     },
     "done": true
   },
@@ -8517,9 +8547,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-08 21:43:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-06-08 21:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-08 21:43:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_yellow_cup": "2025-06-08 21:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-08 21:41:38 +0000"
     },
     "done": true
   },
@@ -8535,6 +8589,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-06-08 21:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-08 21:09:35 +0000"
@@ -8547,9 +8607,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-08 21:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-08 21:44:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_yellow_crockery_combo": "2025-06-08 21:44:16 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/ember_robe_helmet": {
     "criteria": {
       "has_evocation_robe_helmet": "2025-06-08 20:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-06-08 21:43:27 +0000"
     },
     "done": true
   },
@@ -8583,6 +8667,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/yellow_bowl": {
+    "criteria": {
+      "has_yellow_bowl": "2025-06-08 21:44:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-08 21:09:35 +0000"
@@ -8595,9 +8685,45 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-06-08 21:41:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-06-08 21:41:38 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/ember_robe_chestplate": {
     "criteria": {
       "has_evocation_robe_chestplate": "2025-06-08 20:29:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-06-08 21:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-06-08 21:43:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2025-06-08 21:44:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-08 21:44:16 +0000"
     },
     "done": true
   },
@@ -8607,9 +8733,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/xbox_fridge": {
+    "criteria": {
+      "has_black_concrete": "2025-06-08 21:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-06-08 21:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-06-08 21:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-08 21:44:16 +0000"
     },
     "done": true
   },
@@ -8625,9 +8769,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-06-08 21:43:27 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_ingot_from_nuggets": {
     "criteria": {
       "has_silver_nugget": "2025-06-08 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-08 21:43:27 +0000"
     },
     "done": true
   },
