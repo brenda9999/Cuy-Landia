@@ -2095,6 +2095,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-06-01 20:24:36 +0000",
+      "minecraft:pillager": "2025-06-08 20:20:11 +0000",
       "minecraft:skeleton": "2025-05-31 21:36:08 +0000",
       "minecraft:ghast": "2025-06-03 00:29:02 +0000",
       "minecraft:hoglin": "2025-06-02 00:08:29 +0000",
@@ -8467,6 +8468,24 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-06-08 19:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-08 20:15:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-06-08 20:17:24 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-06-08 20:20:12 +0000"
     },
     "done": true
   },
