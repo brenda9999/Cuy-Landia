@@ -9058,141 +9058,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_diamond_hoe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-15 19:19:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-06-16 00:04:27 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2025-06-15 23:13:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2025-06-15 20:08:24 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/netherite_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-06-15 20:47:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-06-15 21:22:54 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/kitchen_hood": {
-    "criteria": {
-      "has_kitchen_hood": "2025-06-15 19:27:47 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
-    "criteria": {
-      "has_chest": "2025-06-16 01:15:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-06-15 19:45:30 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_boots_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:29 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/destructor_core": {
-    "criteria": {
-      "has_the_recipe": "2025-06-15 21:17:05 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/purpur_altar": {
-    "criteria": {
-      "has_end_stone": "2025-06-15 19:45:30 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/netherite_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-06-15 20:47:35 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_axe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:29 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_shovel_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:24 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/maple_door": {
-    "criteria": {
-      "has_planks": "2025-06-15 23:30:37 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_chestplate_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:29 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/netherite_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-06-15 20:47:35 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/combustion_table": {
-    "criteria": {
-      "has_silver_ingot": "2025-06-15 23:13:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-15 19:18:54 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_shovel_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:20 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_chestplate_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:24 +0000"
     },
     "done": true
   },
@@ -9202,219 +9070,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-15 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_leggings_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:20 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/maple_slab": {
-    "criteria": {
-      "has_planks": "2025-06-15 23:30:37 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_chestplate_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:20 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_plate": {
-    "criteria": {
-      "has_white_plate": "2025-06-15 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2025-06-16 00:04:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/maple_sign": {
-    "criteria": {
-      "has_planks": "2025-06-15 23:30:37 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_leggings_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:24 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_boots_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-06-16 00:02:26 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_axe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-15 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/maple_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-15 23:30:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-15 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-15 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-06-16 00:56:35 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/maple_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-15 23:30:37 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/maple_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-15 23:30:37 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/upgrade_template": {
-    "criteria": {
-      "has_chest": "2025-06-16 01:15:42 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_axe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
-    "criteria": {
-      "has_netherite_block": "2025-06-15 20:47:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-06-16 00:00:51 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_pickaxe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:20 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_cup": {
-    "criteria": {
-      "has_white_cup": "2025-06-15 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-06-15 19:45:30 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_axe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-06-16 00:06:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_stairs": {
-    "criteria": {
-      "has_purpur_block": "2025-06-16 00:04:58 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sponge_smithing": {
-    "criteria": {
-      "has_sponge": "2025-06-15 23:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-06-16 00:04:58 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/shulker_armor_helmet": {
-    "criteria": {
-      "has_shulker_shell": "2025-06-16 00:09:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-06-16 00:04:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-06-15 19:18:54 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_sword_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:24 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/tools/spectre_flare": {
-    "criteria": {
-      "has_silver_ingot": "2025-06-15 23:13:59 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_helmet_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:20 +0000"
     },
     "done": true
   },
@@ -9424,315 +9082,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_diamond_leggings_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-06-16 00:09:14 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_gloves_repairing": {
-    "criteria": {
-      "has_netherite_gloves": "2025-06-15 21:29:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-15 19:18:54 +0000"
-    },
-    "done": true
-  },
-  "galosphere:adventure/silver_ingot": {
-    "criteria": {
-      "silver_ingot": "2025-06-15 23:13:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-06-15 19:41:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-06-16 00:04:58 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_sword_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:20 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/lodestone": {
-    "criteria": {
-      "has_netherite_ingots": "2025-06-15 20:48:14 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/maple_button": {
-    "criteria": {
-      "has_planks": "2025-06-15 23:30:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-06-16 00:04:27 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/shulker_armor_boots": {
-    "criteria": {
-      "has_shulker_shell": "2025-06-16 00:09:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-06-15 19:58:45 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/hay_smithing": {
-    "criteria": {
-      "has_hay": "2025-06-16 00:31:03 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2025-06-15 23:13:59 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:nether/obtain_netherite_iron_ingot": {
-    "criteria": {
-      "netherite_iron_ingot": "2025-06-15 20:48:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2025-06-16 00:04:58 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_helmet_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:29 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_crockery_combo": {
-    "criteria": {
-      "has_white_crockery_combo": "2025-06-15 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/reinforced_core": {
-    "criteria": {
-      "has_the_recipe": "2025-06-15 21:16:52 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/detached_drawer": {
-    "criteria": {
-      "has_chest": "2025-06-16 01:15:42 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/maple_fence": {
-    "criteria": {
-      "has_planks": "2025-06-15 23:30:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-06-15 19:45:30 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_sword_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:14 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/unstable_robe_leggings": {
-    "criteria": {
-      "has_teleportation_robe_leggings": "2025-06-15 19:20:48 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_bowl": {
-    "criteria": {
-      "has_white_bowl": "2025-06-15 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2025-06-15 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-06-16 00:04:27 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:mjolnir": {
-    "criteria": {
-      "requirement": "2025-06-15 20:03:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-06-15 21:21:11 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/maple_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-15 23:30:37 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/controller": {
-    "criteria": {
-      "has_chest": "2025-06-16 01:15:42 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/creeper_smithing": {
-    "criteria": {
-      "has_creeper": "2025-06-16 00:01:35 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/netherite_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-06-15 20:47:35 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/shulker_armor_leggings": {
-    "criteria": {
-      "has_shulker_shell": "2025-06-16 00:09:14 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-06-15 21:22:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_white_dye": "2025-06-15 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_pickaxe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:29 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_hoe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:20 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/reinforced_impact_core": {
-    "criteria": {
-      "has_the_recipe": "2025-06-15 21:17:00 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/silver_lattice": {
-    "criteria": {
-      "has_silver_ingot": "2025-06-15 23:13:59 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_helmet_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:24 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_shovel_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:29 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/netherite_smithing": {
-    "criteria": {
-      "has_netherite": "2025-06-15 21:05:12 +0000"
-    },
-    "done": true
-  },
-  "simplymore:matterbane": {
-    "criteria": {
-      "requirement": "2025-06-15 20:09:41 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_boots_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-06-16 00:04:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-15 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
-    "criteria": {
-      "has_spire_armor_trim_smithing_template": "2025-06-16 00:06:41 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/kitchen_hood_pipe": {
-    "criteria": {
-      "has_kitchen_hood_pipe": "2025-06-15 19:27:47 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_leggings_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-06-16 00:04:27 +0000"
     },
     "done": true
   },
@@ -9742,9 +9094,15 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_iron_hoe_smithing": {
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
-      "has_ingredients": "2025-06-15 20:48:14 +0000"
+      "has_mossy_stone_bricks": "2025-06-15 19:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-15 19:19:24 +0000"
     },
     "done": true
   },
@@ -9754,69 +9112,33 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
+  "mcda:recipes/unique_armors/unstable_robe_leggings": {
     "criteria": {
-      "in_city": "2025-06-16 00:05:52 +0000"
+      "has_teleportation_robe_leggings": "2025-06-15 19:20:48 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+  "mcda:recipes/unique_armors/unstable_robe_boots": {
     "criteria": {
-      "has_needed_dye": "2025-06-15 23:32:59 +0000"
+      "has_teleportation_robe_boots": "2025-06-15 19:25:27 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_iron_shovel_smithing": {
+  "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
-      "has_ingredients": "2025-06-15 20:48:14 +0000"
+      "has_kitchen_hood": "2025-06-15 19:27:47 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_iron_helmet_smithing": {
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
-      "has_ingredients": "2025-06-15 20:48:14 +0000"
+      "has_kitchen_hood_pipe": "2025-06-15 19:27:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_smithing_trim_template": "2025-06-16 00:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-15 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_boots_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-16 00:06:41 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_pickaxe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-06-15 21:22:54 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_pickaxe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:24 +0000"
+      "entered_end": "2025-06-15 19:41:23 +0000"
     },
     "done": true
   },
@@ -9826,51 +9148,27 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_emerald_hoe_smithing": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
-      "has_ingredients": "2025-06-15 20:48:24 +0000"
+      "has_end_stone": "2025-06-15 19:45:30 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/impact_core": {
+  "morevillagers:recipes/purpur_altar": {
     "criteria": {
-      "has_the_recipe": "2025-06-15 21:16:28 +0000"
+      "has_end_stone": "2025-06-15 19:45:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
-      "has_purpur_block": "2025-06-16 00:04:58 +0000"
+      "has_end_stone": "2025-06-15 19:45:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
-      "has_cod": "2025-06-15 21:22:54 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/controller_slave": {
-    "criteria": {
-      "has_chest": "2025-06-16 01:15:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-06-15 20:19:30 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_sword_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-15 20:48:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-06-15 19:18:54 +0000"
+      "has_end_stone": "2025-06-15 19:45:30 +0000"
     },
     "done": true
   },
@@ -9886,15 +9184,723 @@
     },
     "done": true
   },
-  "mcda:recipes/unique_armors/unstable_robe_boots": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "has_teleportation_robe_boots": "2025-06-15 19:25:27 +0000"
+      "killed_dragon": "2025-06-15 19:58:45 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:mjolnir": {
+    "criteria": {
+      "requirement": "2025-06-15 20:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-06-15 20:08:24 +0000"
+    },
+    "done": true
+  },
+  "simplymore:matterbane": {
+    "criteria": {
+      "requirement": "2025-06-15 20:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-15 20:19:30 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-15 20:47:35 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-15 20:47:35 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-15 20:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-06-15 20:47:35 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-15 20:47:35 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_netherite_ingots": "2025-06-15 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/obtain_netherite_iron_ingot": {
+    "criteria": {
+      "netherite_iron_ingot": "2025-06-15 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:14 +0000"
     },
     "done": true
   },
   "advancednetherite:recipes/misc/netherite_iron_chestplate_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-15 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:24 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:24 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:24 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:24 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:24 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:24 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:24 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:24 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:24 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-15 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_smithing": {
+    "criteria": {
+      "has_netherite": "2025-06-15 21:05:12 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/impact_core": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 21:16:28 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/reinforced_core": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 21:16:52 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/reinforced_impact_core": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 21:17:00 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/destructor_core": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 21:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-06-15 21:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-15 21:22:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-06-15 21:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-15 21:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-15 21:22:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_repairing": {
+    "criteria": {
+      "has_netherite_gloves": "2025-06-15 21:29:46 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-15 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-15 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-15 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2025-06-15 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-15 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-15 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2025-06-15 23:30:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2025-06-15 23:30:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2025-06-15 23:30:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-15 23:30:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-15 23:30:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-15 23:30:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2025-06-15 23:30:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2025-06-15 23:30:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-15 23:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2025-06-15 23:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-16 00:00:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper_smithing": {
+    "criteria": {
+      "has_creeper": "2025-06-16 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-16 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-06-16 00:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-06-16 00:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-06-16 00:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-06-16 00:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-06-16 00:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-06-16 00:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-06-16 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-06-16 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-06-16 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-06-16 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-06-16 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-06-16 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-16 00:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-16 00:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-06-16 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-16 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/shulker_armor_helmet": {
+    "criteria": {
+      "has_shulker_shell": "2025-06-16 00:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-06-16 00:09:14 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/shulker_armor_boots": {
+    "criteria": {
+      "has_shulker_shell": "2025-06-16 00:09:14 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/shulker_armor_leggings": {
+    "criteria": {
+      "has_shulker_shell": "2025-06-16 00:09:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay_smithing": {
+    "criteria": {
+      "has_hay": "2025-06-16 00:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-06-16 00:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-16 00:56:35 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+    "criteria": {
+      "has_chest": "2025-06-16 01:15:42 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/upgrade_template": {
+    "criteria": {
+      "has_chest": "2025-06-16 01:15:42 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/detached_drawer": {
+    "criteria": {
+      "has_chest": "2025-06-16 01:15:42 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2025-06-16 01:15:42 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller_slave": {
+    "criteria": {
+      "has_chest": "2025-06-16 01:15:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-06-16 23:51:40 +0000"
     },
     "done": true
   },

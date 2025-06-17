@@ -9706,30 +9706,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2025-06-16 00:13:52 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_cyan": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/light_blue_cushion": {
-    "criteria": {
-      "has_light_blue_cushion": "2025-06-16 00:13:57 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 00:01:36 +0000"
@@ -9742,45 +9718,15 @@
     },
     "done": true
   },
-  "morevillagers:master_trade": {
-    "criteria": {
-      "villagertrade": "2025-06-16 00:11:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 00:01:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_bed": {
-    "criteria": {
-      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-06-16 00:55:44 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_light_blue": {
-    "criteria": {
-      "oak_chair_classic_light_blue": "2025-06-16 00:13:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 00:01:36 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/lime_sheet": {
-    "criteria": {
-      "has_lime_sheet": "2025-06-16 00:07:18 +0000"
     },
     "done": true
   },
@@ -9796,39 +9742,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_carpet": {
-    "criteria": {
-      "has_green_wool": "2025-06-16 00:07:21 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/green_sleeping_bag": {
-    "criteria": {
-      "has_green_wool": "2025-06-16 00:07:21 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/lime_shower_towel": {
-    "criteria": {
-      "has_lime_wool": "2025-06-16 00:07:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-06-16 00:13:52 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 00:01:36 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/green_cushion": {
-    "criteria": {
-      "has_green_cushion": "2025-06-16 00:07:21 +0000"
     },
     "done": true
   },
@@ -9838,45 +9754,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 00:01:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2025-06-16 00:07:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab": {
-    "criteria": {
-      "has_polished_granite": "2025-06-16 00:07:29 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_plate": {
-    "criteria": {
-      "has_white_plate": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/crafting_bowl": {
-    "criteria": {
-      "has_dried_kelp": "2025-06-16 00:39:51 +0000"
     },
     "done": true
   },
@@ -9886,195 +9766,15 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_light_blue": {
-    "criteria": {
-      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-06-16 01:14:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-06-16 00:55:46 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_purple": {
-    "criteria": {
-      "has_purple_wool": "2025-06-16 00:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-06-16 00:01:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cyan_sheet": {
-    "criteria": {
-      "has_cyan_sheet": "2025-06-16 00:13:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2025-06-16 00:07:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/purple_cushion": {
-    "criteria": {
-      "has_purple_cushion": "2025-06-16 00:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2025-06-16 00:13:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_bed": {
-    "criteria": {
-      "has_green_wool": "2025-06-16 00:07:21 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 00:01:36 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_purple": {
-    "criteria": {
-      "has_purple_wool": "2025-06-16 00:13:52 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_green": {
-    "criteria": {
-      "has_green_wool": "2025-06-16 00:07:21 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_cup": {
-    "criteria": {
-      "has_white_cup": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/blue_cape_blue_wool": {
-    "criteria": {
-      "has_blue_wool": "2025-06-16 00:13:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-06-16 00:44:08 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/purple_shower_towel": {
-    "criteria": {
-      "has_purple_wool": "2025-06-16 00:13:52 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/shulker_armor_helmet": {
-    "criteria": {
-      "has_shulker_shell": "2025-06-16 01:00:19 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blue_sheet": {
-    "criteria": {
-      "has_blue_sheet": "2025-06-16 00:13:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_purple": {
-    "criteria": {
-      "oak_chair_classic_purple": "2025-06-16 00:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
-    "criteria": {
-      "has_blue_wool": "2025-06-16 00:13:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2025-06-16 00:13:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_banner": {
-    "criteria": {
-      "has_lime_wool": "2025-06-16 00:07:18 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cyan_shower_towel": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/blue_cape_cyan_wool": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
     },
     "done": true
   },
@@ -10090,87 +9790,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/purple_sheet": {
-    "criteria": {
-      "has_purple_sheet": "2025-06-16 00:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-06-16 01:00:19 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/shulker_armor_boots": {
-    "criteria": {
-      "has_shulker_shell": "2025-06-16 01:00:19 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/blue_shower_towel": {
-    "criteria": {
-      "has_blue_wool": "2025-06-16 00:13:44 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_cyan": {
-    "criteria": {
-      "oak_chair_classic_cyan": "2025-06-16 00:13:58 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_crockery_combo": {
-    "criteria": {
-      "has_white_crockery_combo": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/lime_cushion": {
-    "criteria": {
-      "has_lime_cushion": "2025-06-16 00:07:18 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_lime": {
-    "criteria": {
-      "oak_chair_classic_lime": "2025-06-16 00:07:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_banner": {
-    "criteria": {
-      "has_green_wool": "2025-06-16 00:07:21 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_blue": {
-    "criteria": {
-      "oak_chair_classic_blue": "2025-06-16 00:13:44 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/light_blue_shower_towel": {
-    "criteria": {
-      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 00:01:36 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_bowl": {
-    "criteria": {
-      "has_white_bowl": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2025-06-16 00:23:23 +0000"
     },
     "done": true
   },
@@ -10180,39 +9802,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/lime_sleeping_bag": {
-    "criteria": {
-      "has_lime_wool": "2025-06-16 00:07:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 00:01:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_bed": {
-    "criteria": {
-      "has_lime_wool": "2025-06-16 00:07:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/shulker_armor_leggings": {
-    "criteria": {
-      "has_shulker_shell": "2025-06-16 01:00:19 +0000"
     },
     "done": true
   },
@@ -10234,39 +9826,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-06-16 00:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-06-16 00:19:55 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
-    "criteria": {
-      "has_purple_wool": "2025-06-16 00:13:52 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 00:01:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs": {
-    "criteria": {
-      "has_polished_granite": "2025-06-16 00:07:29 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cyan_cushion": {
-    "criteria": {
-      "has_cyan_cushion": "2025-06-16 00:13:58 +0000"
     },
     "done": true
   },
@@ -10276,171 +9838,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/light_blue_sheet": {
-    "criteria": {
-      "has_light_blue_sheet": "2025-06-16 00:13:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2025-06-16 00:39:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_green": {
-    "criteria": {
-      "oak_chair_classic_green": "2025-06-16 00:07:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_carpet": {
-    "criteria": {
-      "has_lime_wool": "2025-06-16 00:07:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-06-16 00:19:55 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blue_cushion": {
-    "criteria": {
-      "has_blue_cushion": "2025-06-16 00:13:44 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_cyan": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_light_blue": {
-    "criteria": {
-      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
-    "criteria": {
-      "has_tiny_cactus": "2025-06-16 00:55:46 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_green": {
-    "criteria": {
-      "has_green_wool": "2025-06-16 00:07:21 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/xbox_fridge": {
-    "criteria": {
-      "has_black_concrete": "2025-06-16 00:28:45 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_carpet": {
-    "criteria": {
-      "has_blue_wool": "2025-06-16 00:13:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/light_blue_sleeping_bag": {
-    "criteria": {
-      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_lime": {
-    "criteria": {
-      "has_lime_wool": "2025-06-16 00:07:18 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/green_sheet": {
-    "criteria": {
-      "has_green_sheet": "2025-06-16 00:07:21 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_blue": {
-    "criteria": {
-      "has_blue_wool": "2025-06-16 00:13:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-06-16 00:39:34 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 00:01:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-06-16 00:55:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-16 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_lime": {
-    "criteria": {
-      "has_lime_wool": "2025-06-16 00:07:18 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/blue_cape_light_blue_wool": {
-    "criteria": {
-      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-06-16 00:26:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_blue": {
-    "criteria": {
-      "has_blue_wool": "2025-06-16 00:13:44 +0000"
     },
     "done": true
   },
@@ -10450,15 +9850,615 @@
     },
     "done": true
   },
+  "exlinecopperequipment:recipes/misc/copper_hoe": {
+    "criteria": {
+      "has_ingredient": "2025-06-16 00:01:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/lime_sheet": {
+    "criteria": {
+      "has_lime_sheet": "2025-06-16 00:07:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/lime_shower_towel": {
+    "criteria": {
+      "has_lime_wool": "2025-06-16 00:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-06-16 00:07:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/lime_cushion": {
+    "criteria": {
+      "has_lime_cushion": "2025-06-16 00:07:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_lime": {
+    "criteria": {
+      "oak_chair_classic_lime": "2025-06-16 00:07:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/lime_sleeping_bag": {
+    "criteria": {
+      "has_lime_wool": "2025-06-16 00:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-06-16 00:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-06-16 00:07:18 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_lime_wool": "2025-06-16 00:07:18 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_lime_wool": "2025-06-16 00:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-06-16 00:07:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/green_sleeping_bag": {
+    "criteria": {
+      "has_green_wool": "2025-06-16 00:07:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/green_cushion": {
+    "criteria": {
+      "has_green_cushion": "2025-06-16 00:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-06-16 00:07:21 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_green_wool": "2025-06-16 00:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-06-16 00:07:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_green": {
+    "criteria": {
+      "oak_chair_classic_green": "2025-06-16 00:07:21 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_green_wool": "2025-06-16 00:07:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/green_sheet": {
+    "criteria": {
+      "has_green_sheet": "2025-06-16 00:07:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/green_shower_towel": {
     "criteria": {
       "has_green_wool": "2025-06-16 00:07:21 +0000"
     },
     "done": true
   },
-  "exlinecopperequipment:recipes/misc/copper_hoe": {
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
-      "has_ingredient": "2025-06-16 00:01:36 +0000"
+      "has_polished_granite": "2025-06-16 00:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-06-16 00:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-06-16 00:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-06-16 00:07:29 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-06-16 00:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-06-16 00:13:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_blue_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-06-16 00:13:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_blue_sheet": "2025-06-16 00:13:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-06-16 00:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-06-16 00:13:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blue_shower_towel": {
+    "criteria": {
+      "has_blue_wool": "2025-06-16 00:13:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_blue": {
+    "criteria": {
+      "oak_chair_classic_blue": "2025-06-16 00:13:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cushion": {
+    "criteria": {
+      "has_blue_cushion": "2025-06-16 00:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-06-16 00:13:44 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-06-16 00:13:44 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-06-16 00:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-06-16 00:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-06-16 00:13:52 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-06-16 00:13:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_cushion": {
+    "criteria": {
+      "has_purple_cushion": "2025-06-16 00:13:52 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-06-16 00:13:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/purple_shower_towel": {
+    "criteria": {
+      "has_purple_wool": "2025-06-16 00:13:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_purple": {
+    "criteria": {
+      "oak_chair_classic_purple": "2025-06-16 00:13:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_sheet": {
+    "criteria": {
+      "has_purple_sheet": "2025-06-16 00:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-06-16 00:13:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-06-16 00:13:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_cushion": {
+    "criteria": {
+      "has_light_blue_cushion": "2025-06-16 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_light_blue": {
+    "criteria": {
+      "oak_chair_classic_light_blue": "2025-06-16 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_blue_shower_towel": {
+    "criteria": {
+      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_sheet": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-06-16 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_blue_sleeping_bag": {
+    "criteria": {
+      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_light_blue_wool": {
+    "criteria": {
+      "has_light_blue_wool": "2025-06-16 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2025-06-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cyan_shower_towel": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_cyan_wool": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_cyan": {
+    "criteria": {
+      "oak_chair_classic_cyan": "2025-06-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-06-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-16 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-16 00:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-16 00:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-16 00:26:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/xbox_fridge": {
+    "criteria": {
+      "has_black_concrete": "2025-06-16 00:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-16 00:39:34 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/crafting_bowl": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-16 00:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-16 00:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-16 00:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-06-16 00:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-16 00:55:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
+    "criteria": {
+      "has_tiny_cactus": "2025-06-16 00:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-16 00:55:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/shulker_armor_helmet": {
+    "criteria": {
+      "has_shulker_shell": "2025-06-16 01:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-06-16 01:00:19 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/shulker_armor_boots": {
+    "criteria": {
+      "has_shulker_shell": "2025-06-16 01:00:19 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/shulker_armor_leggings": {
+    "criteria": {
+      "has_shulker_shell": "2025-06-16 01:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-16 01:14:36 +0000"
     },
     "done": true
   },
