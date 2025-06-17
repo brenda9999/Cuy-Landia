@@ -12,6 +12,7 @@
     "pfm:crimson_simple_bunk_ladder",
     "pfm:warped_simple_bunk_ladder",
     "pfm:skyroot_aether_simple_bunk_ladder",
+    "pfm:echo_deeperdarker_simple_bunk_ladder",
     "pfm:fir_biomesoplenty_simple_bunk_ladder",
     "pfm:pine_biomesoplenty_simple_bunk_ladder",
     "pfm:maple_biomesoplenty_simple_bunk_ladder",
@@ -25,6 +26,14 @@
     "pfm:umbran_biomesoplenty_simple_bunk_ladder",
     "pfm:hellbark_biomesoplenty_simple_bunk_ladder",
     "pfm:empyreal_biomesoplenty_simple_bunk_ladder",
-    "pfm:driftwood_hybrid-aquatic_simple_bunk_ladder"
+    "pfm:driftwood_hybrid-aquatic_simple_bunk_ladder",
+    "pfm:twilight_oak_twilightforest_simple_bunk_ladder",
+    "pfm:canopy_twilightforest_simple_bunk_ladder",
+    "pfm:mangrove_twilightforest_simple_bunk_ladder",
+    "pfm:dark_twilightforest_simple_bunk_ladder",
+    "pfm:time_twilightforest_simple_bunk_ladder",
+    "pfm:transformation_twilightforest_simple_bunk_ladder",
+    "pfm:mining_twilightforest_simple_bunk_ladder",
+    "pfm:sorting_twilightforest_simple_bunk_ladder"
   ]
 }

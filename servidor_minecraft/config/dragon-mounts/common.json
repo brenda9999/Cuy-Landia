@@ -26,14 +26,14 @@
       "dragon_mounts:water": -1
     },
     "hatchTime": {
-      "dragon_mounts:nether": 36000,
-      "dragon_mounts:forest": 36000,
-      "dragon_mounts:aether": 36000,
-      "dragon_mounts:fire": 36000,
-      "dragon_mounts:ghost": 36000,
-      "dragon_mounts:ice": 36000,
-      "dragon_mounts:end": 36000,
-      "dragon_mounts:water": 36000
+      "dragon_mounts:nether": 600,
+      "dragon_mounts:forest": 600,
+      "dragon_mounts:aether": 600,
+      "dragon_mounts:fire": 600,
+      "dragon_mounts:ghost": 600,
+      "dragon_mounts:ice": 600,
+      "dragon_mounts:end": 600,
+      "dragon_mounts:water": 600
     }
   }
 }
