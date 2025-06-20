@@ -10482,21 +10482,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/netherite_shovel_repairing": {
+    "criteria": {
+      "has_netherite_shovel": "2025-06-18 00:05:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-18 00:24:04 +0000"
+    },
+    "done": false
+  },
   "galosphere:recipes/decorations/allurite_lamp": {
     "criteria": {
       "has_glowstone": "2025-06-18 00:25:51 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/transportation/echo_boat": {
-    "criteria": {
-      "in_water": "2025-06-18 00:28:18 +0000"
-    },
-    "done": true
-  },
-  "aether:the_aether": {
-    "criteria": {
-      "the_aether": "2025-06-18 00:31:45 +0000"
     },
     "done": true
   },
@@ -10506,9 +10506,21 @@
     },
     "done": true
   },
-  "aether:read_lore": {
+  "galosphere:recipes/decorations/lumiere_lamp": {
     "criteria": {
-      "lore_book_entry": "2025-06-18 00:32:37 +0000"
+      "has_glowstone": "2025-06-18 00:25:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-18 00:25:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-06-18 00:28:18 +0000"
     },
     "done": true
   },
@@ -10530,18 +10542,6 @@
     },
     "done": true
   },
-  "galosphere:recipes/decorations/lumiere_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-06-18 00:25:51 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/netherite_shovel_repairing": {
-    "criteria": {
-      "has_netherite_shovel": "2025-06-18 00:05:41 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-18 00:28:18 +0000"
@@ -10551,18 +10551,6 @@
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-06-18 00:28:18 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
-    "criteria": {
-      "has_core_specification_item": "2025-06-18 00:25:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-06-18 00:50:44 +0000"
     },
     "done": true
   },
@@ -10578,27 +10566,434 @@
     },
     "done": true
   },
-  "aether:enter_aether": {
-    "criteria": {
-      "enter_aether": "2025-06-18 00:31:45 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-06-18 00:28:18 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
+  "aether:the_aether": {
     "criteria": {
-      "phantom": "2025-06-18 00:24:04 +0000"
+      "the_aether": "2025-06-18 00:31:45 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-06-18 00:31:45 +0000"
+    },
+    "done": true
+  },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2025-06-18 00:32:37 +0000"
+    },
+    "done": true
   },
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-06-18 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-18 00:50:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-06-19 22:57:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-06-19 22:57:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-06-19 22:57:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2025-06-19 23:53:19 +0000",
+      "twilight_oak_log": "2025-06-19 23:05:06 +0000",
+      "twilight_oak_wood": "2025-06-19 23:05:05 +0000",
+      "twilight_oak_sapling": "2025-06-19 23:05:06 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-06-19 23:05:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-06-19 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-06-19 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2025-06-19 23:05:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-06-19 23:11:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-06-19 23:22:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_lich": "2025-06-19 23:25:13 +0000",
+      "trophy": "2025-06-20 00:12:38 +0000",
+      "was_in_fight": "2025-06-19 23:25:13 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/building_blocks/birch_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-06-19 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-06-19 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wooden_sword_repairing": {
+    "criteria": {
+      "has_wooden_sword": "2025-06-19 23:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-06-19 23:43:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ambrosium_block": {
+    "criteria": {
+      "has_ambrosium_shard": "2025-06-19 23:52:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/enchanted_dart_enchanting": {
+    "criteria": {
+      "has_golden_dart": "2025-06-19 23:52:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart": {
+    "criteria": {
+      "has_golden_dart": "2025-06-19 23:52:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-06-19 23:53:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-06-19 23:53:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-06-19 23:53:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 23:53:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 23:53:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-06-19 23:53:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-06-19 23:53:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-06-19 23:53:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-06-19 23:53:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-06-19 23:53:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/holystone_sword_repairing": {
+    "criteria": {
+      "has_holystone_sword": "2025-06-19 23:54:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_gloves": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_leggings": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_chestplate": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/ambrosium_torch": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/zanite_block": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_hoe": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_axe": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_helmet": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_boots": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wood_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/nature_staff": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe_repairing": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_shovel": {
+    "criteria": {
+      "has_zanite": "2025-06-19 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_pickaxe_repairing": {
+    "criteria": {
+      "has_skyroot_pickaxe": "2025-06-19 23:55:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant_repairing": {
+    "criteria": {
+      "has_zanite_pendant": "2025-06-19 23:57:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2025-06-19 23:57:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2025-06-19 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-06-19 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-06-19 23:57:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2025-06-19 23:57:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/blue_moa_incubation": {
+    "criteria": {
+      "has_blue_moa_egg": "2025-06-19 23:57:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2025-06-19 23:57:46 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2025-06-19 23:57:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stone_from_pillar_stonecutting": {
+    "criteria": {
+      "has_pillar": "2025-06-19 23:58:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_top_from_pillar_stonecutting": {
+    "criteria": {
+      "has_pillar": "2025-06-19 23:58:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_smithing": {
+    "criteria": {
+      "has_netherite": "2025-06-20 00:05:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_pendant_from_freezing": {
+    "criteria": {
+      "has_pendant": "2025-06-20 00:06:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-06-20 00:08:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-06-20 00:12:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/enchanted_dart_shooter_enchanting": {
+    "criteria": {
+      "has_golden_dart_shooter": "2025-06-20 00:12:38 +0000"
     },
     "done": true
   },
