@@ -398,10 +398,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-05-31 00:31:11 +0000",
+      "minecraft:mushroom_fields": "2025-06-22 18:18:43 +0000",
       "minecraft:taiga": "2025-05-29 00:21:27 +0000",
       "minecraft:deep_ocean": "2025-06-07 18:07:02 +0000",
       "minecraft:frozen_river": "2025-06-07 18:04:20 +0000",
       "minecraft:sunflower_plains": "2025-06-07 23:13:12 +0000",
+      "minecraft:cherry_grove": "2025-06-22 18:40:36 +0000",
       "minecraft:birch_forest": "2025-06-07 18:06:21 +0000",
       "minecraft:windswept_hills": "2025-06-07 18:05:29 +0000",
       "minecraft:beach": "2025-05-31 00:56:43 +0000",
@@ -409,9 +411,11 @@
       "minecraft:river": "2025-05-31 00:55:32 +0000",
       "minecraft:lukewarm_ocean": "2025-06-07 23:17:48 +0000",
       "minecraft:snowy_plains": "2025-06-15 19:15:36 +0000",
+      "minecraft:stony_shore": "2025-06-22 18:34:55 +0000",
       "minecraft:snowy_taiga": "2025-05-31 00:30:24 +0000",
       "minecraft:dripstone_caves": "2025-05-31 23:05:02 +0000",
       "minecraft:swamp": "2025-05-31 00:35:49 +0000",
+      "minecraft:grove": "2025-06-22 18:39:52 +0000",
       "minecraft:cold_ocean": "2025-05-31 22:52:14 +0000",
       "minecraft:forest": "2025-05-31 20:21:38 +0000",
       "minecraft:deep_cold_ocean": "2025-06-07 18:03:33 +0000",
@@ -421,7 +425,10 @@
       "minecraft:ocean": "2025-06-07 18:05:45 +0000",
       "minecraft:snowy_beach": "2025-06-07 18:04:21 +0000",
       "minecraft:warm_ocean": "2025-06-07 23:19:52 +0000",
+      "minecraft:flower_forest": "2025-06-22 18:35:54 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-22 18:45:24 +0000",
       "minecraft:deep_dark": "2025-06-17 17:39:32 +0000",
+      "minecraft:meadow": "2025-06-22 18:40:24 +0000",
       "minecraft:plains": "2025-05-31 00:43:28 +0000"
     },
     "done": false
@@ -513,7 +520,9 @@
       "scrubland": "2025-06-07 23:18:07 +0000",
       "floodplain": "2025-06-07 23:18:32 +0000",
       "highland": "2025-06-01 22:03:13 +0000",
+      "jacaranda_glade": "2025-06-22 18:36:30 +0000",
       "marsh": "2025-06-07 23:11:53 +0000",
+      "jade_cliffs": "2025-06-22 18:39:53 +0000",
       "cold_desert": "2025-06-15 19:15:40 +0000",
       "old_growth_woodland": "2025-06-07 23:18:20 +0000",
       "maple_woods": "2025-06-07 23:15:59 +0000",
@@ -522,6 +531,7 @@
       "orchard": "2025-06-07 18:06:31 +0000",
       "field": "2025-06-07 23:15:53 +0000",
       "overgrown_greens": "2025-06-07 23:14:11 +0000",
+      "moor": "2025-06-22 18:38:34 +0000",
       "mediterranean_forest": "2025-06-07 23:18:03 +0000",
       "bog": "2025-06-07 23:16:30 +0000",
       "coniferous_forest": "2025-05-31 20:13:05 +0000",
@@ -543,7 +553,8 @@
       "gravel_beach": "2025-05-31 20:14:16 +0000",
       "glowing_grotto": "2025-06-17 17:38:59 +0000",
       "undergrowth": "2025-05-29 00:23:24 +0000",
-      "rainforest": "2025-06-07 23:18:27 +0000"
+      "rainforest": "2025-06-07 23:18:27 +0000",
+      "crag": "2025-06-22 18:39:55 +0000"
     },
     "done": false
   },
@@ -11513,6 +11524,72 @@
   "deeperdarker:recipes/building_blocks/polished_sculk_stone": {
     "criteria": {
       "has_sculk_stone": "2025-06-20 23:10:17 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-22 18:49:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-22 18:49:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-22 18:49:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-22 18:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-22 18:40:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-22 18:49:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-22 18:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-22 18:40:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-22 18:49:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-22 18:49:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-22 18:49:30 +0000"
     },
     "done": true
   },

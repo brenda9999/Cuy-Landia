@@ -11164,5 +11164,41 @@
     },
     "done": true
   },
+  "advancednetherite:nether/netherite_gold_armor": {
+    "criteria": {
+      "netherite_gold_armor": "2025-06-22 18:38:03 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_diamond_armor": {
+    "criteria": {
+      "netherite_diamond_armor": "2025-06-22 18:41:22 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_emerald_armor": {
+    "criteria": {
+      "netherite_emerald_armor": "2025-06-22 18:41:14 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_grime": {
+    "criteria": {
+      "has_grime_ball": "2025-06-22 18:15:57 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/grime_brick_from_smelting_grime_ball": {
+    "criteria": {
+      "has_grime_ball": "2025-06-22 18:15:57 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_iron_armor": {
+    "criteria": {
+      "netherite_iron_armor": "2025-06-22 18:36:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
