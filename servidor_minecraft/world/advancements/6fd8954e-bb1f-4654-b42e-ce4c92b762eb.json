@@ -11527,6 +11527,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-22 18:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-22 18:40:37 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_hoe_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-22 18:49:30 +0000"
@@ -11551,12 +11563,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-06-22 18:40:37 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/netherite_diamond_leggings_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-22 18:49:30 +0000"
@@ -11566,12 +11572,6 @@
   "advancednetherite:recipes/misc/netherite_diamond_helmet_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-22 18:49:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-06-22 18:40:37 +0000"
     },
     "done": true
   },
